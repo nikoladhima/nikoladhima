@@ -1,4 +1,4 @@
-<h2 align="left">Hello. I am trinyxt. Im learning luau cpp and c#. You can find all of my projects here!</h2>
+<h2 align="left">Hello, I'm nikola and i make roblox scripts. You can find all of my projects here!</h2>
 
 ###
 
