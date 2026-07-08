@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm nikoleto and i make roblox scripts. You can find all of my projects here!</h2>
+<h2 align="left">Hello, I'm nikoleto and I code. You can find all of my projects here!</h2>
 
 ###
 
