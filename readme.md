@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm nikoleto and I like coding. You can find all of my projects here!</h2>
+<h2 align="left">Hello, I'm nikola and I like coding. You can find all of my projects here!</h2>
 
 <div align="center">
   <a href="https://discord.com/users/1343207450584813609" target="_blank">
